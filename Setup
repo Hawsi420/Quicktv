@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "🌐 Server 1",
+      "url": "https://github.com/Hawsi420/FapHouse2/raw/refs/heads/main/com.badshahmodz.faphouse.zip",
+      "status": "[ Working ✅ ]"
+}
+  ],
+  "notice": {
+    "showDialog": false,
+    "importantMsg": "Guys, all servers are down. When it is working, I'll tell u by this msg."
+  }
+}
